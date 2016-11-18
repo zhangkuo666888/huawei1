@@ -1,0 +1,5 @@
+﻿[
+    {"src":"images/banner-1.jpg","title":"把握未来"},
+    {"src":"images/banner-2.jpg","title":"把握未来"},
+    {"src":"images/banner-3.jpg","title":"把握未来"}
+]
